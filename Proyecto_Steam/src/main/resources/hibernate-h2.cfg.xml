@@ -26,6 +26,6 @@
         <mapping class="org.example.Modelo.Entidad.EntidadCompra"/>
         <mapping class="org.example.Modelo.Entidad.EntidadUsuario"/>
         <mapping class="org.example.Modelo.Entidad.EntidadResena"/>
-        <mapping class="org.example.Modelo.Entidad.Ciudad"/>
+        <mapping class="org.example.Modelo.Entidad.Pais"/>
     </session-factory>
 </hibernate-configuration>
